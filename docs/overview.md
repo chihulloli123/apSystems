@@ -1,4 +1,3 @@
-Overview
 Amanda Perez Systems
 
 Turning raw data into meaningful performance insights
