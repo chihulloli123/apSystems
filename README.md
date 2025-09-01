@@ -27,11 +27,15 @@ Demonstrated ability to:
 - Detect outliers and visualize results  
 - Communicate findings through clean, interpretable plots  
 
----
-
 ## Vision
 Amanda Perez Systems exists to turn **raw data into signal**.  
 From personal pipelines (Spotify + Apple Health) to enterprise dashboards,  
 I focus on **building systems that prove, visualize, and operationalize insight.**
 
----
+
+## 📄 License
+
+This repository and all associated code, documentation, and assets are the exclusive property of **CHI HULLO LI CREATIONS LLC**.  
+
+Usage is restricted under a proprietary license.  
+See [LICENSE.md](./LICENSE.md) for full terms and conditions.  
