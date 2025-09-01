@@ -1,6 +1,4 @@
-Dual License
-Copyright
-
+# Proprietary License – CHI HULLO LI CREATIONS LLC
 Copyright © 2025 CHI HULLO LI CREATIONS LLC
 All rights reserved.
 
@@ -34,3 +32,4 @@ Build derivative works under agreed terms.
 
 To request a Commercial or Developer License, contact:
 chihullolicreations@gmail.com
+License: Proprietary – see [LICENSE.md](./LICENSE.md) for details.
