@@ -5,7 +5,7 @@
 
 I build and operate end-to-end systems that combine **software engineering**, **data pipelines**, and **AI/ML analysis**.  
 
-### 🛠 Technical Stack & Core Skills
+### Technical Stack & Core Skills
 - **Python Engineering**
   - Pandas · NumPy · Matplotlib · Seaborn  
   - Data wrangling, statistical modeling, anomaly detection  
@@ -20,7 +20,7 @@ I build and operate end-to-end systems that combine **software engineering**, **
   - From command line tools (CLI) to modern APIs  
   - Can build apps, APIs, or dashboards as standalone solutions  
 
-### 🚀 Example: Anomaly Detection
+### Example: Anomaly Detection
 Demonstrated ability to:  
 - Create and process datasets  
 - Apply statistical methods (z-score, thresholds)  
